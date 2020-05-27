@@ -1,0 +1,10 @@
+C:\Users\dannyb\Source\Repos\TargilClass\TargilClass\bin\Debug\TargilClass.exe.config
+C:\Users\dannyb\Source\Repos\TargilClass\TargilClass\bin\Debug\TargilClass.exe
+C:\Users\dannyb\Source\Repos\TargilClass\TargilClass\bin\Debug\TargilClass.pdb
+C:\Users\dannyb\Source\Repos\TargilClass\TargilClass\obj\Debug\TargilClass.csprojAssemblyReference.cache
+C:\Users\dannyb\Source\Repos\TargilClass\TargilClass\obj\Debug\TargilClass.Properties.Resources.resources
+C:\Users\dannyb\Source\Repos\TargilClass\TargilClass\obj\Debug\TargilClass.csproj.GenerateResource.cache
+C:\Users\dannyb\Source\Repos\TargilClass\TargilClass\obj\Debug\TargilClass.exe
+C:\Users\dannyb\Source\Repos\TargilClass\TargilClass\obj\Debug\TargilClass.pdb
+C:\Users\dannyb\Source\Repos\TargilClass\TargilClass\obj\Debug\TargilClass.Targil.resources
+C:\Users\dannyb\Source\Repos\TargilClass\TargilClass\obj\Debug\TargilClass.csproj.CoreCompileInputs.cache
