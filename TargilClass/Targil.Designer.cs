@@ -232,7 +232,7 @@
             this.Controls.Add(this.MenuTop);
             this.MainMenuStrip = this.MenuTop;
             this.Name = "Targil";
-            this.Text = "Form1";
+            this.Text = " Guessing Numbers Game";
             this.Load += new System.EventHandler(this.Targil_Load);
             this.MenuTop.ResumeLayout(false);
             this.MenuTop.PerformLayout();
